@@ -19,9 +19,13 @@ I'm looking for a job, ideally full remote, that would allow me to work in/from 
 🚀 𝑾𝒉𝒂𝒕 𝑰 𝑩𝒓𝒊𝒏𝒈 𝒕𝒐 𝒕𝒉𝒆 𝑻𝒂𝒃𝒍𝒆
 
 1️⃣ Proficiency in Python and machine learning.
+
 2️⃣ Experience in data processing, anomaly detection, and cloud-based solutions.
+
 3️⃣ Qualifications in project status communication, text generation, and web scraping.
-4️⃣ Strong problem-solving skills
+
+4️⃣ Strong problem-solving skills.
+
 5️⃣ Multilingual abilities (French, English, Spanish) and a global perspective.
 
 I am excited to connect with professionals and organizations that value innovation, diversity, and continuous growth. Let's discuss how I can contribute to your team and work together on impactful projects.
