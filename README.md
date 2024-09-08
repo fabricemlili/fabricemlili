@@ -20,13 +20,17 @@ I'm looking for a job, ideally full remote, that would allow me to work in/from 
 
 1️⃣ Proficiency in Python and machine learning.
 
-2️⃣ Experience in data processing, anomaly detection, and cloud-based solutions.
+2️⃣ Experience in data preprocessing and anomaly detection.
 
-3️⃣ Qualifications in project status communication, text generation, and web scraping.
+3️⃣ Familiarity with cloud-based Solution/IaaS (Azure, GCP, AWS).
 
-4️⃣ Strong problem-solving skills.
+4️⃣ Proven ability in text generation and web scraping.
 
-5️⃣ Multilingual abilities (French, English, Spanish) and a global perspective.
+5️⃣ Ability to use tools as Airflow, Kubernetes, Docker, Spark, Kafka.
+
+6️⃣ Multilingual abilities (French, English, Spanish) and a global perspective.
+
+7️⃣ Qualifications in project status communication and strong problem-solving skills.
 
 I am excited to connect with professionals and organizations that value innovation, diversity, and continuous growth. Let's discuss how I can contribute to your team and work together on impactful projects.
 
