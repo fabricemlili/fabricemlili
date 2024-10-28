@@ -15,9 +15,15 @@ I'm looking for a job, ideally full remote, that would allow me to work in/from 
 🚀 𝑾𝒉𝒂𝒕 𝑰 𝑩𝒓𝒊𝒏𝒈 𝒕𝒐 𝒕𝒉𝒆 𝑻𝒂𝒃𝒍𝒆
 
 1️⃣ Proficiency in Python and machine learning.
+
 2️⃣ Experience in data preprocessing and anomaly detection.
+
 3️⃣ Familiarity with cloud-based Solution/IaaS (Azure, GCP, AWS).
+
 4️⃣ Proven ability in text generation and web scraping.
+
 5️⃣ Ability to use tools as Airflow, Kubernetes, Docker, Spark, Kafka.
+
 6️⃣ Multilingual abilities (French, English, Spanish) and a global perspective.
+
 7️⃣ Qualifications in project status communication and strong problem-solving skills.
