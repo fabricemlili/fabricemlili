@@ -1,6 +1,6 @@
 🌍 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁
 
-Check out my GitHub: https://github.com/fabricemlili
+Check out my LinkedIn: [https://github.com/fabricemlili](https://www.linkedin.com/in/fabrice-mlili/)
 
 I'm a recent graduate in data engineering with a broad scientific background and culture. At the beginning of my studies, I wanted to become an astrophysicist, and I ended up becoming a “nerd” fascinated by code and artificial intellienge. My final year internship and a few other experiences gave me skills I'm proud of today.
 
